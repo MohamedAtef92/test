@@ -1,0 +1,3 @@
+[1208/120938.148:ERROR:file_io_win.cc(161)] CreateFile C:\Users\hp\AppData\Local\Temp\scoped_dir17044_1022992728\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1208/120938.150:ERROR:file_io_win.cc(170)] CreateFile C:\Users\hp\AppData\Local\Temp\scoped_dir17044_1022992728\Crashpad\reports\f7b078c9-b1d7-4af8-bd1d-1da066918468.dmp: The system cannot find the path specified. (0x3)
+[1208/120938.150:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed

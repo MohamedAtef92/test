@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite parallel="false" name="Suite">
+	<test name="Test">
+		<classes>
+			<class name="tests.UserLoginTest" />
+			<class name="tests.MySalesLeadsTest" />
+			<class name="tests.MySalesManagerTest" />
+			<class name="tests.ApplyPresetPackageTest" />
+			<class name="tests.AddNewEmployee" />
+			<class name="tests.EditEmployee" />
+			<class name="tests.ViewEmployee" />
+			<class name="tests.SearchTest" />
+			<class name="tests.ActiveEmployee" />
+			<class name="tests.AddNewCompany" />
+			<class name="tests.AddNewBranch" />
+			<class name="tests.AddNewDepartment" />
+		</classes>
+	</test>
+</suite> 
+				
